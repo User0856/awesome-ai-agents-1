@@ -2083,6 +2083,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://shortx.ai/">website</a></p>
 </div>
 
+### SnapRender
+<div><a href="https://github.com/User0856/snaprender-integrations"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/User0856/snaprender-integrations"><img src="https://img.shields.io/github/stars/User0856/snaprender-integrations?style=social" alt="GitHub stars"></a></div>
+
+<p>🛠️ Developer Tools</p>
+
+<p>Screenshot API for AI agents — capture any website as PNG, JPEG, WebP, or PDF. Integrations for LangChain, CrewAI, AutoGen, n8n, and MCP</p>
+
+<p><a href="https://github.com/User0856/snaprender-integrations">github</a></p>
+</div>
+
 ### Streaming Assistants
 <div><a href="https://github.com/phact/streaming-assistants"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/phact/streaming-assistants"><img src="https://img.shields.io/github/stars/phact/streaming-assistants?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 8 stars (Updated: 2025-07-30)</p>
